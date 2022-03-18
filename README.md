@@ -1,6 +1,6 @@
 - Hello I am Dav or Davisor, from Canada : )
-- I've been teaching myself many linux, docker and using android studio.
-- Just a hobby but am looking to learn how "repositories" work.
+- I've been teaching myself linux, docker and android studio.
+
  
 
 
